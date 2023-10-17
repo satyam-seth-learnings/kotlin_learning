@@ -1,6 +1,6 @@
+/*** Calling Java from Kotlin ***/
 package ch21;
 
-/*** Calling Java from Kotlin ***/
 public class MyJava {
     private int a;
 

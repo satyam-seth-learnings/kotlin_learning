@@ -1,6 +1,6 @@
+/*** Calling Java from Kotlin ***/
 import ch21.MyJava
 
-/*** Calling Java from Kotlin ***/
 fun main() {
     val obj = MyJava()
     obj.setValue(10)
